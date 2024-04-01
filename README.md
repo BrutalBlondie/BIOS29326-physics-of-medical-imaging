@@ -21,6 +21,6 @@ This repository is devoted to ineractive demos useful for learning medical physi
 ## Authors and acknowledgment
 Special thanks to my classmate Gia Jadick for teaching me the fundimentals of image processing as well as my professors Dr. Sam Armato, Dr. Patrick LaRivere, Dr. Chien-Min Kao, and Dr. Sean Foxley for giving me the theoretical background on this facinating field! 
 
-## Dislaimer
+## Disclaimer
 I am still learning just like you! There is a high probability there are some errors in these notebooks. If you come across any, please let me know by reaching out to me via email at arenne@uchiago.edu! 
 
